@@ -47,13 +47,9 @@
 
 ---
 
-<p align="center"> 
-  My recently listened tracks on Spotify
-</p>
+My recently listened tracks on Spotify
 
-<p align="center">
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314rvqem6oemkjujjxfbg3mxez5i&unique=true&count=2)
-</p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314rvqem6oemkjujjxfbg3mxez5i&unique=true&count=2)
 
 ---
 
@@ -70,6 +66,6 @@
 <p align="center">Thanks for visiting my profile ❤️</p>
 
 
-<p align="center">p.s. joke of the day</p>
+p.s. joke of the day
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)

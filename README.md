@@ -59,7 +59,7 @@ p.s. joke of the day
 
 Thanks for visiting my profile ❤️
 
-<picture width="200" height="200">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://martienvanvliet.nl/github-ninja.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://martienvanvliet.nl/github-wizard.png">
+  <img width="250" height"200" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://martienvanvliet.nl/github-wizard.png">
 </picture>

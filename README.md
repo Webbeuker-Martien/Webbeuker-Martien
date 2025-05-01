@@ -33,21 +33,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Webbeuker-Martien&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Webbeuker-Martien&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webbeuker-Martien&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Webbeuker-Martien&theme=tokyonight" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbeuker-Martien&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbeuker-Martien&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
-
-My recently listened tracks on Spotify
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314rvqem6oemkjujjxfbg3mxez5i&unique=true&count=2)
 
@@ -63,9 +55,8 @@ My recently listened tracks on Spotify
 
 ---
 
-<p align="center">Thanks for visiting my profile ❤️</p>
-
-
 p.s. joke of the day
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+Thanks for visiting my profile ❤️

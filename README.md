@@ -35,8 +35,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Webbeuker-Martien&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Webbeuker-Martien&theme=tokyonight" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbeuker-Martien&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
@@ -50,7 +48,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/martien-van-vliet-64b934221" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:neitramvv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://martienvanvliet.nl" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome"></a>
+  <a href="https://martienvanvliet.nl" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-black?style=flat&logo=google-chrome"></a>
 </p>
 
 ---

@@ -34,15 +34,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Webbeuker-Martien&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Webbeuker-Martien&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbeuker-Martien&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -51,7 +51,9 @@
   My recently listened tracks on Spotify
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314rvqem6oemkjujjxfbg3mxez5i&unique=true&count=2)
+<p align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314rvqem6oemkjujjxfbg3mxez5i&unique=true&count=2)
+</p>
 
 ---
 
@@ -69,4 +71,5 @@
 
 
 <p align="center">p.s. joke of the day</p>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)

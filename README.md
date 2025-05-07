@@ -64,4 +64,7 @@ Thanks for visiting my profile ❤️
   <img width="250" height"200" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://martienvanvliet.nl/github-wizard.png">
 </picture>
 
-![image](dino.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dino-dark.gif">
+  <img width="250" height"200" alt="Shows gif of Google's dino game!" src="dino.gif">
+</picture>

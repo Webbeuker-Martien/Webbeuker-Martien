@@ -53,10 +53,6 @@
 
 ---
 
-p.s. joke of the day
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 Thanks for visiting my profile ❤️
 
 <picture>

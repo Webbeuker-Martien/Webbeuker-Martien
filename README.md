@@ -31,14 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Webbeuker-Martien&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Webbeuker-Martien&layout=compact&theme=tokyonight" alt="Top Languages" />
-
----
-
+### 🎶 Music I Love
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314rvqem6oemkjujjxfbg3mxez5i&unique=true&count=2)
 
 ---
